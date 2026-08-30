@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/400gradi",
-      "destination": "https://www.google.com/search?q=400+gradi+lecce",
-      "permanent": false
-    }
-  ]
-}
